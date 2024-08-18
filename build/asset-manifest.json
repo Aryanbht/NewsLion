@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https://github.com/NewsLion-/static/css/main.f855e6bc.css",
+    "main.js": "/https://github.com/NewsLion-/static/js/main.f4b50092.js",
+    "static/js/453.b2157c12.chunk.js": "/https://github.com/NewsLion-/static/js/453.b2157c12.chunk.js",
+    "static/media/spinner.gif": "/https://github.com/NewsLion-/static/media/spinner.d516560d9d81173212a8.gif",
+    "index.html": "/https://github.com/NewsLion-/index.html",
+    "main.f855e6bc.css.map": "/https://github.com/NewsLion-/static/css/main.f855e6bc.css.map",
+    "main.f4b50092.js.map": "/https://github.com/NewsLion-/static/js/main.f4b50092.js.map",
+    "453.b2157c12.chunk.js.map": "/https://github.com/NewsLion-/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f4b50092.js"
+  ]
+}
